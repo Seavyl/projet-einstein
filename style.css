@@ -141,6 +141,11 @@ footer{
     background-color:#141445 ;
     align-items: center;
 }
+
+.cercle{
+    border: 1px solid grey;
+    border-radius:50px;
+}
 .imgfoot{
     align-items: center;
     margin-top: 12px;
